@@ -1,0 +1,11 @@
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\bin\Debug\netcoreapp2.1\EF6Crypto.deps.json
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\bin\Debug\netcoreapp2.1\EF6Crypto.runtimeconfig.json
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\bin\Debug\netcoreapp2.1\EF6Crypto.runtimeconfig.dev.json
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\bin\Debug\netcoreapp2.1\EF6Crypto.dll
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\obj\Debug\netcoreapp2.1\EF6Crypto.csprojAssemblyReference.cache
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\obj\Debug\netcoreapp2.1\EF6Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\obj\Debug\netcoreapp2.1\EF6Crypto.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\obj\Debug\netcoreapp2.1\EF6Crypto.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\bin\Debug\netcoreapp2.1\EF6Crypto.pdb
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\obj\Debug\netcoreapp2.1\EF6Crypto.dll
+C:\Users\Nicolas\source\repos\EF6Crypto\EF6Crypto\obj\Debug\netcoreapp2.1\EF6Crypto.pdb
